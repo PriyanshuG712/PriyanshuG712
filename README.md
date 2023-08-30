@@ -27,14 +27,12 @@
 
 ### Glad to see you here!
 
-<!--<p><samp>
-  I'm Ayush Dubey, a passionate Developer living in India. Currently pursuing B.Tech in Computer Science.
+<p><samp>
+  I'm PRiyanshu Gupta, a passionate Developer living in India. Currently pursuing B.Tech in Electronics and Communication.
   <br/><br/>
-  I was previously working at <a href="https://rooftopapp.com/">Rooftop</a> as Founding Engineer. I maintain few Android Custom ROM at <a href="https://forum.xda-developers.com/m/ayushd70.5889244/">XDA Developers</a>.
-  <br/><br/>
-  You can contact me on any of the platforms above. I typically respond fastest to <a href="https://t.me/Ayushd70"> Telegram </a> messages.
+  You can contact me on any of the platforms above. I typically respond fastest to <a href="https://www.linkedin.com/in/priyanshug712/" target="_blank"> Linkedin </a> messages.
 </samp></p>
--->
+
 ### Languages and Tools
 
 <div align="center">  

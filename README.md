@@ -28,7 +28,7 @@
 ### Glad to see you here!
 
 <p><samp>
-  I'm PRiyanshu Gupta, a passionate Developer living in India. Currently pursuing B.Tech in Electronics and Communication.
+  I'm Priyanshu Gupta, a passionate Developer living in India. Currently pursuing B.Tech in Electronics and Communication.
   <br/><br/>
   You can contact me on any of the platforms above. I typically respond fastest to <a href="https://www.linkedin.com/in/priyanshug712/" target="_blank"> Linkedin </a> messages.
 </samp></p>

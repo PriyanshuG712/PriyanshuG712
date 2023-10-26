@@ -33,6 +33,8 @@
   You can contact me on any of the platforms above. I typically respond fastest to <a href="https://www.linkedin.com/in/priyanshug712/" target="_blank"> Linkedin </a> messages.
 </samp></p>
 
+[![An image of @priyanshug712's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshug712)](https://holopin.io/@priyanshug712)
+
 ### Languages and Tools
 
 <div align="center">  
